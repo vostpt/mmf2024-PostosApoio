@@ -1,5 +1,5 @@
-# mmf2024-PostosApoio
-Code for MMF 2024 Activation that will show support points cards
+# VOST PORTUGAL -  FÁTIMA 2024 ACTIVATION 
+Code that generates cards based on the the information inserted in a form. 
 
  [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
@@ -11,3 +11,5 @@ This work is licensed under a
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+Developer: Jorge Gomes for VOST Portugal, April 2024
