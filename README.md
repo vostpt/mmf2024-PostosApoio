@@ -1,7 +1,7 @@
 # mmf2024-PostosApoio
 Code for MMF 2024 Activation that will show support points cards
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+ [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
