@@ -66,4 +66,4 @@ def update_cards(search_value):
 
 
 if __name__ == '__main__':
-    app.run_server(host='0.0.0.0:8050',debug=False)
+    app.run_server(host='0.0.0.0',debug=False)

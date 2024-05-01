@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  mmf:
+    build: .
+    environment:
+      - DS_URL=https://docs.google.com/spreadsheets/d/e/2PACX-1vQzLHhweuUH0meMW0QfQrNCbat0Rw73fEBpBgKU-LQOlSqOTVQ0xMHhquDh-gAo9SNj50xbP1bULh87/pub?gid=617652868&single=true&output=csv
+    ports:
+      - "8087:8050"
